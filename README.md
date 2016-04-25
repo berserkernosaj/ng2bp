@@ -4,7 +4,7 @@
 - clone the repository and cd into it.
 - install node from https://nodejs.org/
 - install typescript and live-server globally.
-  ```bash
+  ```
     npm i -g typescript live-server
   ```
 - run ```npm install``` at the root folder
